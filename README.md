@@ -14,4 +14,4 @@ http://localhost:3000/?url=(爱奇艺链接)
 不过想要获取会员专区里面的 那还需要你自己去买一个会员然后把登陆的token写入到代码中 如下开启注释即可
 
 //获取普通视频可不用会员账号登陆  如会员专区的可使用会员登陆后设置cookie 可直接抓取
-···cookie.setCookie(request.cookie('P00001=41c7Mfc2TCeC3y5jWLQGcTm3Dm2wQw1qOdGhduJzTbvQe21TJ5j9tBExRXN7ltry17HOp8b'), _urlAttestation);
+```cookie.setCookie(request.cookie('P00001=41c7Mfc2TCeC3y5jWLQGcTm3Dm2wQw1qOdGhduJzTbvQe21TJ5j9tBExRXN7ltry17HOp8b'), _urlAttestation);
