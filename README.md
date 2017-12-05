@@ -6,6 +6,7 @@
 # getVideoLink
 演示地址:
 http://localhost:3000/?url=(爱奇艺链接)
+
 http://localhost:3000/?url=http://m.iqiyi.com/v_19rrek8nm0.html
 
 返回格式为json 播放地址在 "m3u" 字段 格式为:
